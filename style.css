@@ -1,0 +1,92 @@
+.left-column {
+  background-color: #7579e7;
+  padding: 20px;
+}
+
+.right-column {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.profile img {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.personal-details h2 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.personal-details {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+
+.summary h2 {
+  color: #7579e7;
+  font-weight: bold;
+}
+
+
+.summary {
+  
+ text-align: justify;
+}
+
+
+.skills h2 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skills li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.skill-name {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.skill-rating {
+  color: #f4d03f;
+  margin-left: 10px;
+}
+
+.education h2 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.education {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.work-experience h2 {
+  color: #7579e7;
+  font-weight: bold;
+}
+
+.work-experience h3 {
+  color: #7579e7;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.work-experience ul {
+  list-style-type: disc;
+ text-align: justify;
+  margin-left: 20px;
+}
